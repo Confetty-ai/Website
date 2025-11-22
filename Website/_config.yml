@@ -1,0 +1,23 @@
+title: Edge Control
+description: Intelligent Edge Management
+url: https://koenlammers.github.io
+baseurl: /EdgeControl
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Exclude unnecessary files
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+
+# Assets
+assets:
+  sources:
+    - _assets
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
