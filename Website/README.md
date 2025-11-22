@@ -1,4 +1,4 @@
-# Edge Control
+# Controlable
 
 Intelligent machine monitoring & power management platform.
 
@@ -13,7 +13,7 @@ Intelligent machine monitoring & power management platform.
 
 ## Deployment
 
-This site is deployed on GitHub Pages. Visit [https://yourusername.github.io/EdgeControl](https://yourusername.github.io/EdgeControl)
+This site is deployed on GitHub Pages. Visit [https://yourusername.github.io/Controlable](https://yourusername.github.io/Controlable)
 
 ### Local Development
 
@@ -28,4 +28,4 @@ This site is deployed on GitHub Pages. Visit [https://yourusername.github.io/Edg
 4. Choose `main` branch and `/ (root)` folder
 5. Click Save
 
-Your site will be live at: `https://yourusername.github.io/EdgeControl`
+Your site will be live at: `https://yourusername.github.io/Controlable`
